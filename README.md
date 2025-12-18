@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌟 Hi there! I’m **Lohita** — Code Innovator & Curious Thinker</h1>
+  <h1>🌟 Hi there! I’m Lohita — Code Innovator & Curious Thinker </h1>
   <p>Blending data, logic, and imagination to build intelligent and elegant solutions that inspire and solve real problems</p>
 </div>
 
