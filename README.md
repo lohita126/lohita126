@@ -25,42 +25,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=47A248)
-
-### 🤖 AI / ML Frameworks
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=for-the-badge&logo=keras&logoColor=D00000)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-333333?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-
-### 🐍 Python Libraries
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-333333?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=for-the-badge&logo=seaborn&logoColor=white)
-
-### 💡 Core Competencies
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-333333?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-333333?style=for-the-badge)
-![NLP](https://img.shields.io/badge/-NLP-333333?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/-Computer_Vision-333333?style=for-the-badge)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-333333?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![VSCode](https://img.shields.io/badge/-VSCode-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=react" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=react" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lohita126&show_icons=true&theme=react" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohita126&layout=compact&theme=react" width="49%"/>
 </div>
 
 ---
@@ -68,7 +39,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=radical&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=lohita126&theme=radical&margin-w=15&margin-h=15"/>
 </div>
 
 ---
@@ -76,6 +47,3 @@
 ## 🔝 Top Contributed Repo
 
 📌 *Your top contributed repository will show here automatically once you contribute more!*
-
-
-
